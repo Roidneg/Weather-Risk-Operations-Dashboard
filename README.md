@@ -90,7 +90,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
+cd Roidneg
 ```
 
 Install the required packages:
